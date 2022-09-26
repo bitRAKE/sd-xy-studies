@@ -9,9 +9,9 @@ This repository aims to excellerate the experimentation with some examples.
 
 #### Additional Resources:
 
-[Druid princess - step 1 to 101 animation][4]
-[Stable Diffusion: Tutorials, Resources, and Tools][5]
-[Awesome Diffusion][6]
+* [Druid princess - step 1 to 101 animation][4]
+* [Stable Diffusion: Tutorials, Resources, and Tools][5]
+* [Awesome Diffusion][6]
 
 
 [1]: https://github.com/CompVis/stable-diffusion
