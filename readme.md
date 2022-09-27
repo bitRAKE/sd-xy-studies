@@ -25,5 +25,5 @@ Example images have metadata outlining parameters used. Yet, different implement
 [4]: https://www.reddit.com/r/StableDiffusion/comments/xay9ts/druid_princess_step_1_to_101_animation/
 [5]: https://stackdiary.com/stable-diffusion-resources/
 [6]: https://github.com/cobanov/awesome-diffusion
-[7]: https://img.shields.io/github/languages/code-size/bitRAKE/fasmg-umbrella?style=for-the-badge
-[8]: https://img.shields.io/github/repo-size/bitRAKE/fasmg-umbrella?style=for-the-badge
+[7]: https://img.shields.io/github/languages/code-size/bitRAKE/sd-xy-studies?style=for-the-badge
+[8]: https://img.shields.io/github/repo-size/bitRAKE/sd-xy-studies?style=for-the-badge
