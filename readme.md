@@ -16,6 +16,8 @@ Example images have metadata outlining parameters used. Yet, different implement
 * [Stable Diffusion: Tutorials, Resources, and Tools][5]
 * [Awesome Diffusion][6]
 
+![GitHub repo size][7] ![GitHub code size in bytes][8]
+
 
 [1]: https://github.com/CompVis/stable-diffusion
 [2]: https://github.com/AUTOMATIC1111/stable-diffusion-webui
@@ -23,3 +25,5 @@ Example images have metadata outlining parameters used. Yet, different implement
 [4]: https://www.reddit.com/r/StableDiffusion/comments/xay9ts/druid_princess_step_1_to_101_animation/
 [5]: https://stackdiary.com/stable-diffusion-resources/
 [6]: https://github.com/cobanov/awesome-diffusion
+[7]: https://img.shields.io/github/languages/code-size/bitRAKE/fasmg-umbrella?style=for-the-badge
+[8]: https://img.shields.io/github/repo-size/bitRAKE/fasmg-umbrella?style=for-the-badge
