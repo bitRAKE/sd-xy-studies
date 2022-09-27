@@ -1,10 +1,13 @@
 #### Trying to make sense of [Stable Diffusion][1] through variation in the parameter space.
 
-The [Stable Diffusion][1] model has a complex interface, and this largely a result of the model itself. An understanding of what happens to produce the images would be my first recommendation for getting a grasp on how the different parameters effect output. Unfortunately, that understanding doesn't make everything so clear. So, a good bit of experimentation is needed.
+The [Stable Diffusion][1] model has a complex interface, and this is largely a result of the model itself. An understanding of what happens to produce the images would be my first recommendation for getting a grasp on how the different parameters effect output. Unfortunately, that understanding doesn't make everything so clear. So, a good bit of experimentation is needed.
 
 This repository aims to excellerate the experimentation with some examples. 
 
 [Some][2] implementations of [Stable Diffusion][1] have an [X/Y Plot feature][3] which creates a grid of varying parameters. From this we can better understand the resulting output.
+
+Example images have metadata outlining parameters used. Yet, different implementations of [Stable Diffusion][1] can use the parameters differently. In some cases I cannot generate the same images any more. :/
+
 
 
 #### Additional Resources:
