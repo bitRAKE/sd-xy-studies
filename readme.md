@@ -1,4 +1,5 @@
-#### Trying to make sense of [Stable Diffusion][1] through variation in the parameter space.
+Trying to make sense of [Stable Diffusion][1] through variation in the parameter space.
+------
 
 The [Stable Diffusion][1] model has a complex interface, and this is largely a result of the model itself. An understanding of what happens to produce the images would be my first recommendation for getting a grasp on how the different parameters effect output. Unfortunately, that understanding doesn't make everything so clear. So, a good bit of experimentation is needed.
 
@@ -9,8 +10,25 @@ This repository aims to excellerate the experimentation with some examples.
 Example images have metadata outlining parameters used. Yet, different implementations of [Stable Diffusion][1] can use the parameters differently. In some cases I cannot generate the same images any more. :/
 
 
+Seamless Texture Studies:
+------
 
-#### Additional Resources:
+* 1608700726-leaves
+* 1727232361-frogs
+* 3086193878-autumn
+* 3136066660-monkey
+* 4125763558-halloween
+* 466059324-parallax
+
+Okay, there is the first group of studies - which consist of seamless textures. These differ from the "Tiling" feature of [webui branch][2] in that I'm asking the model to generate a seamless texture instead of it being enforced by the underlying model use.
+
+This might seem weird, but we know the model was trained on A LOT of seamless textures and I want to dial in that feature through prompting and parameters. It was actually easier than I thought it would be - the model definitely understands seamless textures.
+
+If you look at the X/Y studies and examine what parameters actually produce seamless textures. We should ask ourself some questions? What range of CFG Scale produce seamless textures? Is this consistent across the set of tests? How does the step count impact feature presents? Like a good scientist we try to draw some conclusion (to be tested).
+
+
+Additional Resources:
+------
 
 * [Druid princess - step 1 to 101 animation][4]
 * [Stable Diffusion: Tutorials, Resources, and Tools][5]
