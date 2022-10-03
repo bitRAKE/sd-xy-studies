@@ -13,12 +13,12 @@ Example images have metadata outlining parameters used. Yet, different implement
 Seamless Texture Studies:
 ------
 
+* 0466059324-parallax
 * 1608700726-leaves
 * 1727232361-frogs
 * 3086193878-autumn
 * 3136066660-monkey
 * 4125763558-halloween
-* 466059324-parallax
 
 Okay, there is the first group of studies - which consist of seamless textures. These differ from the "Tiling" feature of [webui branch][2] in that I'm asking the model to generate a seamless texture instead of it being enforced by the underlying model use.
 
